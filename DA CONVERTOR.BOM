@@ -1,0 +1,27 @@
+  Revised: Wednesday, July 31, 2019
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 31,2019      14:43:23	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	0.1uF
+2	1	D1	D1N4148/TEMP
+3	1	D2	RD56EB
+4	1	J1	CON4
+5	1	J2	CON2
+6	8	R1,R4,R6,R13,R14,R15,R16,	10k
+		R18
+7	1	R2	6.8k
+8	3	R3,R7,R8	1k
+9	1	R5	5.1k
+10	5	R9,R10,R11,R12,R17	22k
+11	3	U1,U2,U4	LM741
+12	1	U3	74LS90

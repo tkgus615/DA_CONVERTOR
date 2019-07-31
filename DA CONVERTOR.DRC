@@ -1,0 +1,61 @@
+Date and Time : 07/31/19 12:30:45
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: DA CONVERTOR 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U2,V+  V+  +12V
+                    SCHEMATIC1, PAGE1  (147.32, 63.50) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,V+  V+  +12V
+                    SCHEMATIC1, PAGE1  (68.58, 60.96) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U4,V+  V+  +12V
+                    SCHEMATIC1, PAGE1  (220.98, 160.02) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U2,V-  V-  -12V
+                    SCHEMATIC1, PAGE1  (147.32, 38.10) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,V-  V-  -12V
+                    SCHEMATIC1, PAGE1  (68.58, 35.56) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U4,V-  V-  -12V
+                    SCHEMATIC1, PAGE1  (220.98, 134.62) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? +5V  +5V  VCC  
+                    SCHEMATIC1, PAGE1  (33.02, 203.20) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
