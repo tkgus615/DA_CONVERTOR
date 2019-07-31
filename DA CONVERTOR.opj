@@ -162,8 +162,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 890 50 397")
-        (Scroll "0 475")
+        (Placement "44 2 3 -1 -1 -8 -30 50 890 50 397")
+        (Scroll "0 377")
         (Zoom "144")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DESKTOP\DA CONVERTOR\DA CONVERTOR.DSN")
